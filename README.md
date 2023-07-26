@@ -51,9 +51,6 @@ Follow these steps to set up and run the ATM Simulator System:
 
 Contributions to the ATM Simulator System project are welcome. If you find any bugs or want to add new features, feel free to fork the repository and submit a pull request.
 
-## License
-
-The ATM Simulator System is open-source software licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ## Acknowledgments
 
