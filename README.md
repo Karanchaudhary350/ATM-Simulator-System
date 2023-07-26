@@ -83,14 +83,14 @@ Special thanks to all contributors and developers who have helped build and impr
         <a href="https://github.com/Adityasinghsiddhartha">
             <img src="https://avatars.githubusercontent.com/u/106505506?v=4" width="100;" alt="akhilmhdh"/>
             <br />
-            <sub><b>Aditya..</b></sub>
+            <sub><b>Aditya .</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/kaushik0703">
             <img src="https://avatars.githubusercontent.com/u/106008167?v=4" width="100;" alt="akhilmhdh"/>
             <br />
-            <sub><b>Aditya..</b></sub>
+            <sub><b>Kaushik Moralwar</b></sub>
         </a>
     </td>
      <td align="center">
