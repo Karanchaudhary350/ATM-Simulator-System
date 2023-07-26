@@ -74,10 +74,6 @@ Contributions to the ATM Simulator System project are welcome. If you find any b
 
 Special thanks to all contributors and developers who have helped build and improve the ATM Simulator System.
 
-# Contributors-Readme
-
-This is an example of contributors-readme-action as it can't be utilized in master, because of the demonstration it will be overwritten.
-
 ## Contributors
 
 <!-- readme: contributors -start -->
@@ -85,7 +81,7 @@ This is an example of contributors-readme-action as it can't be utilized in mast
 <tr>
     <td align="center">
         <a href="https://github.com/akhilmhdh">
-            <img src="https://avatars.githubusercontent.com/u/31166322?v=4" width="100;" alt="akhilmhdh"/>
+            <img src="[https://avatars.githubusercontent.com/u/31166322?v=4](https://avatars.githubusercontent.com/u/106505506?v=4)" width="100;" alt="akhilmhdh"/>
             <br />
             <sub><b>Akhil Mohan</b></sub>
         </a>
