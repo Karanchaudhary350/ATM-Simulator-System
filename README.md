@@ -65,7 +65,7 @@ Follow these steps to set up and run the ATM Simulator System:
 6. Follow the on-screen instructions to complete the transaction.
 7. For security reasons, ensure to log out after finishing your transactions.
 
-## Contribution
+<!-- ## Contribution
 
 Contributions to the ATM Simulator System project are welcome. If you find any bugs or want to add new features, feel free to fork the repository and submit a pull request.
 
@@ -101,5 +101,5 @@ Special thanks to all contributors and developers who have helped build and impr
         </a>
     </td></tr>
 </table>
-<!-- readme: contributors -end -->
+readme: contributors -end -->
 
