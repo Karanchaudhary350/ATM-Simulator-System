@@ -27,11 +27,29 @@ To run the ATM Simulator System, you need the following:
 
 Follow these steps to set up and run the ATM Simulator System:
 
-1. Clone or download the project files from the repository.
-2. Set up the MySQL database:
+1. **Clone or download the project files from the repository.**
+
+2. **Set up the MySQL database:**
    - Install MySQL on your machine if you haven't already.
    - Create a new database and name it "atm_simulator_db" (you can choose a different name if you prefer).
    - Create two tables: "users" and "transactions" using the provided schema.
+
+   ```sql
+   CREATE TABLE users (
+     id INT AUTO_INCREMENT PRIMARY KEY,
+     account_number VARCHAR(10) NOT NULL,
+     pin VARCHAR(4) NOT NULL,
+     name VARCHAR(50) NOT NULL,
+     balance DOUBLE NOT NULL
+   );
+
+   CREATE TABLE transactions (
+     id INT AUTO_INCREMENT PRIMARY KEY,
+     account_number VARCHAR(10) NOT NULL,
+     transaction_type VARCHAR(20) NOT NULL,
+     amount DOUBLE NOT NULL,
+     transaction_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+   );
 3. Import the project into your Java IDE (e.g., Eclipse).
 4. Install and configure the Windows Builder plugin to edit the GUI components.
 5. Update the `Conn.java` file with the correct database connection settings (e.g., database URL, username, password).
