@@ -86,6 +86,13 @@ Special thanks to all contributors and developers who have helped build and impr
             <sub><b>Aditya..</b></sub>
         </a>
     </td>
+    <td align="center">
+        <a href="https://github.com/kaushik0703">
+            <img src="https://avatars.githubusercontent.com/u/106008167?v=4" width="100;" alt="akhilmhdh"/>
+            <br />
+            <sub><b>Aditya..</b></sub>
+        </a>
+    </td>
      <td align="center">
         <a href="https://github.com/Karanchaudhary350">
             <img src="https://avatars.githubusercontent.com/u/78443850?v=4" width="100;" alt="shufo"/>
